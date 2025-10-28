@@ -2,3 +2,4 @@ model/yolo
 assets/test
 suspicious_detection.rar
 .venv
+venv/
