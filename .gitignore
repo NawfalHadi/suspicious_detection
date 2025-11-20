@@ -4,3 +4,4 @@ suspicious_detection.rar
 .venv
 venv/
 assets/dataset/v2
+model/trained/lstm_bi/bi_lstm_weights_v2.best.keras
